@@ -1,2 +1,2 @@
 # CursoGitHoracio
-Curso dia miercoles
+Curso dia miercoles de INADI
